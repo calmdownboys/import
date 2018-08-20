@@ -12,102 +12,72 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-08-20T04:56:36.314+05:00
-  initializedAtString: 2018-08-20T04:56:05.878+05:00
+  lastUpdatedAtString: 2018-08-20T16:47:50.572+05:00
+  initializedAtString: 2018-08-20T16:40:51.798+05:00
   entries:
-  - path: GTA new one\Assembly-CSharp.csproj
-    fullPath: C:\Users\User\Desktop\GitHub\calmdownboys\import\GTA new one\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: GTA new one\calmdownboys
-    fullPath: C:\Users\User\Desktop\GitHub\calmdownboys\import\GTA new one\calmdownboys
-    projectPath: calmdownboys
+  - path: GTA new one\Assets\hitman1_hold.png
+    fullPath: C:\Users\User\Desktop\import\GTA new one\Assets\hitman1_hold.png
+    projectPath: Assets\hitman1_hold.png
     originalPath: 
     status: 1
     staged: 0
-  - path: GTA new one\Library\CurrentLayout.dwlt
-    fullPath: C:\Users\User\Desktop\GitHub\calmdownboys\import\GTA new one\Library\CurrentLayout.dwlt
-    projectPath: Library\CurrentLayout.dwlt
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: GTA new one\Library\EditorInstance.json
-    fullPath: C:\Users\User\Desktop\GitHub\calmdownboys\import\GTA new one\Library\EditorInstance.json
-    projectPath: Library\EditorInstance.json
+  - path: GTA new one\Assets\hitman1_hold.png.meta
+    fullPath: C:\Users\User\Desktop\import\GTA new one\Assets\hitman1_hold.png.meta
+    projectPath: Assets\hitman1_hold.png.meta
     originalPath: 
     status: 1
+    staged: 0
+  - path: GTA new one\Assets\survivor-shoot_shotgun_0.png
+    fullPath: C:\Users\User\Desktop\import\GTA new one\Assets\survivor-shoot_shotgun_0.png
+    projectPath: Assets\survivor-shoot_shotgun_0.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: GTA new one\Assets\survivor-shoot_shotgun_0.png.meta
+    fullPath: C:\Users\User\Desktop\import\GTA new one\Assets\survivor-shoot_shotgun_0.png.meta
+    projectPath: Assets\survivor-shoot_shotgun_0.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: GTA new one\Library\assetDatabase3
+    fullPath: C:\Users\User\Desktop\import\GTA new one\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
     staged: 0
   - path: GTA new one\Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\User\Desktop\GitHub\calmdownboys\import\GTA new one\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\User\Desktop\import\GTA new one\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: GTA new one\Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\User\Desktop\GitHub\calmdownboys\import\GTA new one\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\User\Desktop\import\GTA new one\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: GTA new one\Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\User\Desktop\GitHub\calmdownboys\import\GTA new one\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\User\Desktop\import\GTA new one\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: GTA new one\Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\User\Desktop\GitHub\calmdownboys\import\GTA new one\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\User\Desktop\import\GTA new one\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: GTA new one\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    fullPath: C:\Users\User\Desktop\GitHub\calmdownboys\import\GTA new one\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
     originalPath: 
     status: 3
     staged: 0
   - path: GTA new one\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\User\Desktop\GitHub\calmdownboys\import\GTA new one\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\User\Desktop\import\GTA new one\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     status: 3
     staged: 0
-  - path: GTA new one\Temp\UnityLockfile
-    fullPath: C:\Users\User\Desktop\GitHub\calmdownboys\import\GTA new one\Temp\UnityLockfile
-    projectPath: Temp\UnityLockfile
+  - path: GTA new one\ProjectSettings\ProjectVersion.txt
+    fullPath: C:\Users\User\Desktop\import\GTA new one\ProjectSettings\ProjectVersion.txt
+    projectPath: ProjectSettings\ProjectVersion.txt
     originalPath: 
-    status: 1
-    staged: 0
-  - path: GTA new one\Temp\UnityTempFile-0fbba01774e831b49bbc71d6efa91e0c
-    fullPath: C:\Users\User\Desktop\GitHub\calmdownboys\import\GTA new one\Temp\UnityTempFile-0fbba01774e831b49bbc71d6efa91e0c
-    projectPath: Temp\UnityTempFile-0fbba01774e831b49bbc71d6efa91e0c
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: GTA new one\Temp\UnityTempFile-51463eb434ed300448fd5fb93cf87d4e
-    fullPath: C:\Users\User\Desktop\GitHub\calmdownboys\import\GTA new one\Temp\UnityTempFile-51463eb434ed300448fd5fb93cf87d4e
-    projectPath: Temp\UnityTempFile-51463eb434ed300448fd5fb93cf87d4e
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: GTA new one\Temp\UnityTempFile-55e315eab17b6d9468a1b0e894a5b423
-    fullPath: C:\Users\User\Desktop\GitHub\calmdownboys\import\GTA new one\Temp\UnityTempFile-55e315eab17b6d9468a1b0e894a5b423
-    projectPath: Temp\UnityTempFile-55e315eab17b6d9468a1b0e894a5b423
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: GTA new one\Temp\UnityTempFile-58821abd83b7a484aabdeb662b9fe04d
-    fullPath: C:\Users\User\Desktop\GitHub\calmdownboys\import\GTA new one\Temp\UnityTempFile-58821abd83b7a484aabdeb662b9fe04d
-    projectPath: Temp\UnityTempFile-58821abd83b7a484aabdeb662b9fe04d
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: GTA new one\Temp\UnityTempFile-f6a6577261f71284a9bf309b2621e5ec
-    fullPath: C:\Users\User\Desktop\GitHub\calmdownboys\import\GTA new one\Temp\UnityTempFile-f6a6577261f71284a9bf309b2621e5ec
-    projectPath: Temp\UnityTempFile-f6a6577261f71284a9bf309b2621e5ec
-    originalPath: 
-    status: 1
+    status: 3
     staged: 0
