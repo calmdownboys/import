@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 521}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -40,12 +40,19 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
+<<<<<<< HEAD
     width: 1920
     height: 947
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
+=======
+    width: 1366
+    height: 635
+  m_MinSize: {x: 881, y: 471}
+  m_MaxSize: {x: 14004, y: 14021}
+>>>>>>> parent of 8308dcb... can i really commit dat?
   vertical: 0
-  controlID: 103
+  controlID: 109
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -66,12 +73,12 @@ MonoBehaviour:
     height: 947
   m_MinSize: {x: 277, y: 71}
   m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 15}
+  m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 15}
   - {fileID: 12}
-  m_Selected: 0
-  m_LastSelected: 1
+  m_Selected: 1
+  m_LastSelected: 0
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -142,9 +149,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1920
     height: 997
   m_MinSize: {x: 950, y: 300}
+=======
+    width: 1366
+    height: 685
+  m_MinSize: {x: 950, y: 521}
+>>>>>>> parent of 8308dcb... can i really commit dat?
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -205,12 +218,19 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1524
     height: 947
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
+=======
+    width: 1084
+    height: 635
+  m_MinSize: {x: 604, y: 471}
+  m_MaxSize: {x: 10002, y: 14021}
+>>>>>>> parent of 8308dcb... can i really commit dat?
   vertical: 1
-  controlID: 104
+  controlID: 69
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -229,12 +249,19 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1524
     height: 543
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
+=======
+    width: 1084
+    height: 364
+  m_MinSize: {x: 604, y: 200}
+  m_MaxSize: {x: 6052, y: 4000}
+>>>>>>> parent of 8308dcb... can i really commit dat?
   vertical: 0
-  controlID: 105
+  controlID: 48
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,17 +278,30 @@ MonoBehaviour:
     serializedVersion: 2
     x: 388
     y: 0
+<<<<<<< HEAD
     width: 1136
     height: 543
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 17}
+=======
+    width: 808
+    height: 364
+  m_MinSize: {x: 404, y: 121}
+  m_MaxSize: {x: 2052, y: 2069}
+  m_ActualView: {fileID: 13}
+>>>>>>> parent of 8308dcb... can i really commit dat?
   m_Panes:
   - {fileID: 17}
   - {fileID: 18}
   - {fileID: 13}
+<<<<<<< HEAD
   m_Selected: 0
   m_LastSelected: 1
+=======
+  m_Selected: 2
+  m_LastSelected: 0
+>>>>>>> parent of 8308dcb... can i really commit dat?
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -360,14 +400,25 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scripts
   m_LastFoldersGridSize: -1
+<<<<<<< HEAD
   m_LastProjectPath: C:\Users\User\Desktop\import\GTA new one
+=======
+  m_LastProjectPath: "C:\\Users\\User\\Desktop\\\u0438\u043C\u043F\u043E\u0440\u0442
+    \u043F\u0440\u043E\u0435\u043A\u0442\u0430\\GTA new one"
+>>>>>>> parent of 8308dcb... can i really commit dat?
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 120d0000
     m_LastClickedID: 3346
     m_ExpandedIDs: 00000000b209000000ca9a3b
+=======
+    m_SelectedIDs: 9a0c0000
+    m_LastClickedID: 3226
+    m_ExpandedIDs: 000000005009000000ca9a3b
+>>>>>>> parent of 8308dcb... can i really commit dat?
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -395,7 +446,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000b2090000
+    m_ExpandedIDs: 0000000050090000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -511,8 +562,13 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 5efdfeff
     m_LastClickedID: -66210
+=======
+    m_SelectedIDs: e6080000
+    m_LastClickedID: 0
+>>>>>>> parent of 8308dcb... can i really commit dat?
     m_ExpandedIDs: e6fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
